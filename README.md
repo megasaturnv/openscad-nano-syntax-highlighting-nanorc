@@ -13,3 +13,4 @@ and make sure `include "/usr/share/nano/*.nanorc"` is in /etc/nanorc
 ## Links
 * Man page for nanorc: https://linux.die.net/man/5/nanorc
 * Get OpenSCAD here: https://www.openscad.org/
+* OpenSCAD CheatSheet: https://www.openscad.org/cheatsheet/index.html
