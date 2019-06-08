@@ -8,7 +8,7 @@ Place openscad.nanorc with other nanorc files, found in one of these locations:
 ```
 and make sure `include "/usr/share/nano/*.nanorc"` is in /etc/nanorc
 
-![a](https://github.com/megasaturnv/openscad-nano-syntax-highlighting-nanorc/blob/master/screenshot.png)
+![Screenshot of openscad syntax highlighting in nano](https://github.com/megasaturnv/openscad-nano-syntax-highlighting-nanorc/blob/master/screenshot.png)
 
 ## Links
 * Man page for nanorc: https://linux.die.net/man/5/nanorc
