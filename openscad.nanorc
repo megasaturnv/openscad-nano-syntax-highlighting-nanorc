@@ -50,16 +50,16 @@ color brightmagenta "\<(translate|rotate|scale|resize|mirror|multmatrix|color|of
 # Boolean Operations - Combinations
 color brightmagenta "\<(union|difference|intersection)\>"
 # if statement & loops
-color brightmagenta   "\<(if|else|for|intersection_for|let)\<"
+color brightmagenta "\<(if|else|for|intersection_for|let)\>"
 # Other										Deprecated: |assign
 color brightmagenta "\<(echo|render|children|assert)\>"
 
 # Functions
-color brightyellow   "\<(concat|lookup|str|chr|ord|search|version|version_num|parent_module)\>"
+color brightyellow  "\<(concat|lookup|str|chr|ord|search|version|version_num|parent_module)\>"
 # Mathematical
-color brightyellow   "\<(abs|sign|sin|cos|tan|asin|acos|atan|atan2|floor|round|ceil|ln|len|log|pow|sqrt|exp|rands|min|max|norm|cross)\>"
+color brightyellow  "\<(abs|sign|sin|cos|tan|asin|acos|atan|atan2|floor|round|ceil|ln|len|log|pow|sqrt|exp|rands|min|max|norm|cross)\>"
 # Object variables
-color brightyellow   "\<(size|center|h|r|r1|r2|d|points|faces|convexity|angle|height|twist|slices|scale|origin|layer|file)\>"
+color brightyellow  "\<(size|center|h|r|r1|r2|d|points|faces|convexity|angle|height|twist|slices|scale|origin|layer|file)\>"
 
 
 
